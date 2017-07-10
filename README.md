@@ -1,6 +1,7 @@
 # All checklists
 
 - http://roca-style.org/ A collection of simple recommendations for decent Web application frontends
+- https://github.com/virajkulkarni14/WebDeveloperSecurityChecklist Web Developer Security Checklist
 - https://github.com/shieldfy/API-Security-Checklist API Security Checklist
 - https://github.com/FallibleInc/security-guide-for-developers/blob/master/security-checklist.md Security guide for developers
 - https://blog.risingstack.com/node-js-security-checklist/ Node.js Security Checklist
