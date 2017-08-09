@@ -12,3 +12,4 @@
 - https://github.com/chtefi/guidelines-to-create-a-strong-website Guidelines to create a strong website
 - http://goldbergyoni.com/checklist-best-practice-of-node-js-in-production/ Node.JS production best practices
 - http://goldbergyoni.com/checklist-best-practices-of-node-js-error-handling/ Node.JS Error Handling
+- https://github.com/shekhargulati/building-java-web-apps-checklist A checklist for building Java + Angular/React web applications in the correct way
