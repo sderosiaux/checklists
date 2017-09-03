@@ -13,3 +13,4 @@
 - http://goldbergyoni.com/checklist-best-practice-of-node-js-in-production/ Node.JS production best practices
 - http://goldbergyoni.com/checklist-best-practices-of-node-js-error-handling/ Node.JS Error Handling
 - https://github.com/shekhargulati/building-java-web-apps-checklist A checklist for building Java + Angular/React web applications in the correct way
+- https://www.awesomeweb.com/blog/make-website-awesome 101 Ways to Make Your Website More Awesome
