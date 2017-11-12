@@ -15,3 +15,4 @@
 - https://github.com/shekhargulati/building-java-web-apps-checklist A checklist for building Java + Angular/React web applications in the correct way
 - https://www.awesomeweb.com/blog/make-website-awesome 101 Ways to Make Your Website More Awesome
 - https://github.com/amocrenco/owasp-testing-checklist-v4-markdown/blob/master/README.md OWASP testing. (Open Web Application Security Project)
+- https://github.com/Heydon/inclusive-design-checklist Aims to be the biggest checklist of inclusive design considerations ever
