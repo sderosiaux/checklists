@@ -1,5 +1,6 @@
 # All checklists
 
+- https://github.com/huyingjie/Checklist-Checklist Moar checklists
 - http://roca-style.org/ A collection of simple recommendations for decent Web application frontends
 - https://github.com/virajkulkarni14/WebDeveloperSecurityChecklist Web Developer Security Checklist
 - https://github.com/shieldfy/API-Security-Checklist API Security Checklist
