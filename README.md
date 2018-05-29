@@ -20,3 +20,4 @@
 - https://github.com/Heydon/inclusive-design-checklist Aims to be the biggest checklist of inclusive design considerations ever
 - https://blog.ycombinator.com/ycs-series-a-diligence-checklist/ Series A diligence checklist
 - https://gist.github.com/acolyer/95ef23802803cb8b4eb5 Internet Scale Services checklist
+- https://medium.com/simple-security/web-developer-security-checklist-f2e4f43c9c56 Web Developer Security checklist
