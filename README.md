@@ -21,3 +21,4 @@
 - https://blog.ycombinator.com/ycs-series-a-diligence-checklist/ Series A diligence checklist
 - https://gist.github.com/acolyer/95ef23802803cb8b4eb5 Internet Scale Services checklist
 - https://medium.com/simple-security/web-developer-security-checklist-f2e4f43c9c56 Web Developer Security checklist
+- https://csswizardry.com/2016/06/speakers-checklist-before-and-after-your-talk/ A checklist for speakers
