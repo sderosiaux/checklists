@@ -1,5 +1,6 @@
 # All checklists
 
+- https://github.com/code-review-checklists/java-concurrency Code Review Java Concurrency checklist
 - https://www.sqreen.io/checklists/saas-cto-security-checklist The Saas CTO Security Checklist
 - https://github.com/huyingjie/Checklist-Checklist Moar checklists
 - http://roca-style.org/ A collection of simple recommendations for decent Web application frontends
